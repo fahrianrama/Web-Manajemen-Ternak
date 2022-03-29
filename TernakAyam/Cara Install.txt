@@ -1,0 +1,8 @@
+1. Buka Xampp folder htdocs
+2. Buat Folder Baru (Nama terserah)
+3. copy model,view dan index.php ke folder baru itu
+4. buka phpmyadmin
+5. buat database baru dengan nama "database_ternak" (sesuai)
+6. Import sql ke database tadi
+7. buka localhost dan lokasi folder
+8. Enjoy :D

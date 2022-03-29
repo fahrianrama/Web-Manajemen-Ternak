@@ -1,0 +1,3 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://kit.fontawesome.com/9769c63bf6.js" crossorigin="anonymous"></script>
+<link rel="shortcut icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/1801/1801656.png" />
